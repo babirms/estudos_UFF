@@ -4,6 +4,9 @@
 <h2>Definição de Conceito</h2>
 <p>Unidade de conhecimento; É um construto mental que representa um objeto individual material ou imaterial; Devem corresponder à realidade e serem verificáveis. Segundo Dahlberg, "o item mais essencial no plano teórico da organização do conhecimento é o fato de toda organização do conhecimento ser baseada em unidades do conhecimento, que nada mais são que <b>conceitos</b>".</p>
 
+<p><b>Individuais:</b> expressam objetos individuais(que existem no tempo e no espaço, estão aqui e agora).</p>
+<p><b>Gerais:</b> expressam objetos gerais(situados fora do espaço e do tempo).</p>
+
 <h3>Conceitos x Objetos</h3>
 <p>Com a ajuda das linguagens naturais, é possível formular enunciados a respeito dos objetos. O conjunto de enunciados forma o conceito sobre algumo e cada enunciado faz referência a algum dos elementos do conceito.</p>
 
@@ -38,7 +41,7 @@
 <p>Para identificar a que categoria pertence um conceito, comece de T para P. Faça por eliminação, em especial para identificar antes T,S, e E. Só depois de descartá-los, analise se o conceito deve ser categorizado como P ou M. As categorias referentes a matéria e personalidade precisam do contexto para serem identificadas.</p>
 <ul>
   <li><b>P</b> : personalidade. A categoria Personalidade é considerada por Ranganathan como indefinível. Explica que, se uma certa manifestação for facilmente determinada como não sendo espaço, tempo, energia ou matéria, ela é vista como uma manifestação da categoria fundamental Personalidade. Exemplos: na agricultura - semente, planta; na pecuária - animal, novilho; na medicina - corpo humano, orgão do corpo humano.</li>
-  <li><b>M</b> : matéria. Suas manifestações são de duas espécies: material (matéria de que algo é constituído) e propriedade (qualiaddes, caracterísitcas).</li>
+  <li><b>M</b> : matéria. Suas manifestações são de duas espécies: material (matéria de que algo é constituído) e propriedade (qualidades, caracterísitcas).</li>
   <li><b>E</b> : energia. Pode ser entendida como uma ação de uma espécie ou outra e pode-se dar entre toda espécie de entidades inanimadas, animadas, conceituais e até intuitivas (processo, operação, procedimento, tarefa, festa).</li>
   <li><b>S</b> : espaço. É definida com seu significado usual, apresentando como suas manifestações a superfície da Terra, seu espaço interior e exterior, continentes, países, estados, formações aquáticas (rios, oceanos, mares, lagos), áreas naturais físicas (desertos, florestas tropicais, montanhas), áreas ocupados por população (cidade, vila, bairro).</li>
   <li><b>T</b> : tempo. É definida com seu significado usual: milênios, séculos, décadas, anos, dia e noite, estações do ano, tempo com qualidade meteorológica.</li>
