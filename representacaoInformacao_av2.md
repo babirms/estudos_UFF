@@ -1,5 +1,5 @@
 <h1>Resumo</h1> 
-<p>conteúdos que irão ser cobrados na AV2 de Representação da Informação</p>
+<p><i>✰ conteúdos que irão ser cobrados na AV2 de Representação da Informação ✰</i></p>
 
 <h2>Definição de Conceito</h2>
 <p>Unidade de conhecimento; É um construto mental que representa um objeto individual material ou imaterial; Devem corresponder à realidade e serem verificáveis. Segundo Dahlberg, "o item mais essencial no plano teórico da organização do conhecimento é o fato de toda organização do conhecimento ser baseada em unidades do conhecimento, que nada mais são que <b>conceitos</b>".</p>
