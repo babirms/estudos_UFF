@@ -26,3 +26,5 @@
     <td><b>Caneta</b> </br> - Refil </br> - Corpo </br> - Tampa </br></td>
    </tr>
 </table>
+
+<p>A relação <b>gênero-espécie</b> responde à pergunta "é um tipo de?" e se dá entre conceitos universais(gerais).</p>
